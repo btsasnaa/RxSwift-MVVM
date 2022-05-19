@@ -1,0 +1,37 @@
+[
+    {
+        "day": "Monday",
+        "desc": "Smoky",
+        "image": "smoke"
+    },
+    {
+        "day": "Tuesday",
+        "desc": "Cloud Foggy",
+        "image": "cloud.fog"
+    },
+    {
+        "day": "Wednesday",
+        "desc": "Sunny",
+        "image": "sun.max"
+    },
+    {
+        "day": "Thursday",
+        "desc": "Cloud Drizzle",
+        "image": "cloud.drizzle.fill"
+    },
+    {
+        "day": "Friday",
+        "desc": "Wind Snowy",
+        "image": "wind.snow"
+    },
+    {
+        "day": "Saturday",
+        "desc": "Cloud Bolt Rainy",
+        "image": "cloud.bolt.rain.fill"
+    },
+    {
+        "day": "Sunday",
+        "desc": "Cloud Sunny",
+        "image": "cloud.sun"
+    }
+]
