@@ -68,6 +68,7 @@
 		BC78E78B283653F20035BB1E /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				BCCD0D2F2835FEC7004B1C9D /* ViewController.swift */,
 				BCCD0D312835FEC7004B1C9D /* Main.storyboard */,
 				BC78E789283647810035BB1E /* MyCell.swift */,
 			);
@@ -132,7 +133,6 @@
 				BCCD0D2B2835FEC7004B1C9D /* AppDelegate.swift */,
 				BCCD0D2D2835FEC7004B1C9D /* SceneDelegate.swift */,
 				BC78E77D283604300035BB1E /* AppCoordinator.swift */,
-				BCCD0D2F2835FEC7004B1C9D /* ViewController.swift */,
 				BCCD0D362835FEC9004B1C9D /* LaunchScreen.storyboard */,
 				BCCD0D392835FEC9004B1C9D /* Info.plist */,
 				BC78E78E283654A70035BB1E /* Resources */,
